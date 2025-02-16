@@ -18,7 +18,7 @@ transform functions to horizonatlly scroll through the content in a UX frienly w
 I have also implemented a popup for the creation of a new account with the fictional bank but this is for 
 presentation only and thus does not launch an actual request to a server.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://ionut-bankist-website-project.netlify.app/
 
